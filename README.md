@@ -28,7 +28,7 @@ I'm also passionate about competitive programming, research, and continuously le
 #### 🤖 AI / Machine Learning
 ![Python](https://img.shields.io/badge/Machine%20Learning-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=for-the-badge)
+![Tensorflow](https://img.shields.io/badge/XGBoost-189AB4?style=for-the-badge)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
 #### 🌐 Backend & Database
@@ -46,17 +46,6 @@ I'm also passionate about competitive programming, research, and continuously le
 
 ---
 
-## 🚀 What I'm Working On
-
-- 📱 Building Android applications using **Java, Kotlin & Jetpack Compose**
-- 🤖 Exploring **Artificial Intelligence & Machine Learning**
-- 🌱 Developing AI-powered applications for real-world problems
-- 🔬 Working on **Computer Vision and Explainable AI**
-- 🧠 Practicing **Data Structures & Algorithms**
-- 📚 Continuously learning new technologies and software engineering practices
-
----
-
 ## 🔬 Research Interests
 
 My research interests include:
@@ -65,32 +54,9 @@ My research interests include:
 - 🧠 Machine Learning
 - 👁️ Computer Vision
 
-
-## 📱 Featured Projects
-
-### 🌾 Smart Krishi
-An Android-based agricultural marketplace and crop price prediction application designed for farmers, vendors, and buyers.
-
-**Technologies:**
-
-`Java` `Android` `Firebase` `FastAPI` `Python` `MySQL` `Machine Learning`
-
 ---
 
 ## 📊 GitHub Statistics
-
-<p align="center">
-  <img 
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
-    alt="GitHub Stats"
-  />
-  <img 
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" 
-    alt="Top Languages"
-  />
-</p>
 
 <p align="center">
   <img 
