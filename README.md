@@ -57,10 +57,25 @@ My research interests include:
 
 ## 📊 GitHub Statistics
 
-## 🐍 My GitHub Contributions
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
+    alt="GitHub Stats"
+  />
+</p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MorshedNabil/MorshedNabil/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" 
+    alt="GitHub Streak"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" 
+    alt="Top Languages"
+  />
 </p>
 
 ---
