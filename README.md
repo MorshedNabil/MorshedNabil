@@ -70,9 +70,10 @@ My research interests include:
 <a href="https://www.linkedin.com/">
   Linkedin
 </a>
+</p>
 
+<p>
 <a href="mailto:nabilmorshed.cse@gmail.com">
 Email
 </a>
-
 </p>
