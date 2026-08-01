@@ -1,8 +1,8 @@
-# 👋 Hello, I'm Nabil Morshed! Nice to meet you!
+# 👋 Hello, I'm Nabil Morshed!
 
 ### 💻 Software Developer | Android Developer | AI/ML Enthusiast
 
-Welcome to my GitHub profile! I'm a Computer Science & Engineering graduate and software developer with a strong interest in **Android development, Artificial Intelligence, Machine Learning, and backend systems**.
+I'm a Computer Science & Engineering graduate and software developer with a strong interest in **Android development, Artificial Intelligence, Machine Learning, and backend systems**.
 
 I enjoy building practical applications that solve real-world problems and exploring how AI can be integrated into software products. I have experience working with **Java, Kotlin, Python, Django, FastAPI, MySQL, Firebase, and machine learning frameworks**.
 
@@ -57,11 +57,10 @@ My research interests include:
 
 ## 📊 GitHub Statistics
 
+## 🐍 My GitHub Contributions
+
 <p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" 
-    alt="GitHub Streak"
-  />
+  <img src="https://raw.githubusercontent.com/MorshedNabil/MorshedNabil/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
 </p>
 
 ---
