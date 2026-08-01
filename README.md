@@ -1,8 +1,6 @@
 # 👋 Hello, I'm Nabil Morshed!
 
-### 💻 Software Developer | Android Developer | AI/ML Enthusiast
-
-I'm a Computer Science & Engineering graduate and software developer with a strong interest in **Android development, Artificial Intelligence, Machine Learning, and backend systems**.
+I'm a software developer with a strong interest in **Android development, Artificial Intelligence, Machine Learning, and backend systems**.
 
 I enjoy building practical applications that solve real-world problems and exploring how AI can be integrated into software products. I have experience working with **Java, Kotlin, Python, Django, FastAPI, MySQL, Firebase, and machine learning frameworks**.
 
@@ -27,7 +25,7 @@ I'm also passionate about competitive programming, research, and continuously le
 #### 🤖 AI / Machine Learning
 ![Python](https://img.shields.io/badge/Machine%20Learning-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Tensorflow](https://img.shields.io/badge/XGBoost-189AB4?style=for-the-badge)
+![Tensorflow](https://img.shields.io/badge/Tensorflow-189AB4?style=for-the-badge)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
 #### 🌐 Backend & Database
