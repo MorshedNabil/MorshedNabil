@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Nabil Morshed!
 
-I'm a software developer with a strong interest in **Android development, Artificial Intelligence, Machine Learning, and backend systems**.
+I'm a software engineer with a strong interest in **Android development, Artificial Intelligence, Machine Learning, and backend systems**.
 
 I enjoy building practical applications that solve real-world problems and exploring how AI can be integrated into software products. I have experience working with **Java, Kotlin, Python, Django, FastAPI, MySQL, Firebase, and machine learning frameworks**.
 
