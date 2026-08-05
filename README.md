@@ -61,15 +61,6 @@ My research interests include:
   />
 </p>
 
-## 🐍 Contribution Activity
-
-<p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/MorshedNabil/MorshedNabil/output/github-contribution-grid-snake.svg"
-    alt="GitHub Contribution Snake Animation"
-  />
-</p>
-
 ---
 
 ## 📫 Connect With Me
