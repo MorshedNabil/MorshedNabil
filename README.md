@@ -52,12 +52,21 @@ My research interests include:
 
 ---
 
-## 📊 GitHub Statistics
+## 🔥 GitHub Streak
 
 <p align="center">
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" 
+    src="https://streak-stats.demolab.com?user=MorshedNabil&theme=tokyonight&hide_border=true"
     alt="GitHub Streak"
+  />
+</p>
+
+## 🐍 Contribution Activity
+
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/MorshedNabil/MorshedNabil/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake Animation"
   />
 </p>
 
@@ -66,14 +75,9 @@ My research interests include:
 ## 📫 Connect With Me
 
 <p align="left">
-
-<a href="https://www.linkedin.com/">
-  Linkedin
-</a>
+<a href="https://www.linkedin.com/"> Linkedin </a>
 </p>
 
 <p>
-<a href="mailto:nabilmorshed.cse@gmail.com">
-Email
-</a>
+<a href="mailto:nabilmorshed.cse@gmail.com"> Email </a>
 </p>
