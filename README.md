@@ -52,17 +52,6 @@ My research interests include:
 
 ---
 
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=MorshedNabil&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
-
----
-
 ## 📫 Connect With Me
 
 <p align="left">
