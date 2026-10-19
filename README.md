@@ -55,7 +55,7 @@ My research interests include:
 ## 📫 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/"> Linkedin </a>
+<a href="www.linkedin.com/in/nabil-morshed"> Linkedin </a>
 </p>
 
 <p>
