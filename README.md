@@ -2,9 +2,9 @@
 
 I'm a software engineer with a strong interest in **Android development, Artificial Intelligence, Machine Learning, and backend systems**.
 
-I enjoy building practical applications that solve real-world problems and exploring how AI can be integrated into software products. I have experience working with **Java, Kotlin, Python, Django, FastAPI, MySQL, Firebase, and machine learning frameworks**.
+I enjoy building practical applications that solve real-world problems and exploring how AI can be integrated into software products. I have experience working with **Java, Kotlin, Python, Django, FastAPI, MySQL, Firebase, and Machine Learning frameworks**.
 
-I'm also passionate about competitive programming, research, and continuously learning new technologies. 🚀
+I'm also passionate about research and continuously learning new technologies. 🚀
 
 ---
 
@@ -47,7 +47,7 @@ I'm also passionate about competitive programming, research, and continuously le
 My research interests include:
 
 - 🤖 Artificial Intelligence
-- 🧠 Machine Learning
+- 🧠 Deep Learning
 - 👁️ Computer Vision
 
 ---
