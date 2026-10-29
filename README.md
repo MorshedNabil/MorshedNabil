@@ -52,6 +52,17 @@ My research interests include:
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=HasanurRahmanKabir&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub Streak" />
+  <br /><br />
+  <img src="https://github-readme-stats-official.vercel.app/api?username=HasanurRahmanKabir&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;hide_rank=true&amp;count_private=true&amp;include_all_commits=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-official.vercel.app/api/top-langs/?username=HasanurRahmanKabir&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=6&amp;count_private=true" height="165" alt="Top Languages" />
+</div>
+
+---
+
 ## 📫 Connect With Me
 
 <p align="left">
