@@ -66,4 +66,4 @@ My research interests include:
 ## 📫 Connect With Me
 
 [LinkedIn](https://www.linkedin.com/in/nabil-morshed/) | 
-[Email](mailto:nabilmorshed.cse@gmail.com)
+[Email](https://mail.google.com/mail/?view=cm&to=nabilmorshed.cse@gmail.com)
