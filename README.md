@@ -17,7 +17,7 @@ I'm also passionate about research and continuously learning new technologies. �
 
 #### 📱 Android Development
 <p>
-  <img src="https://skillicons.dev/icons?i=androidstudio,jetpackcompose,firebase,xml" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,firebase,jetpackcompose," />
 </p>
 
 #### 🤖 AI / Machine Learning
